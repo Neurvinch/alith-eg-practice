@@ -7,7 +7,7 @@
 				"type": "string"
 			}
 		],
-		"name": "getCommamdResponse",
+		"name": "getCommandResponse",
 		"outputs": [
 			{
 				"internalType": "string",
