@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
+
 contract AlithAgent {
 
     function getCommamdResponse (string memory command) public pure returns (string memory ) {
